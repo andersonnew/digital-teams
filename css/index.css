@@ -11,3 +11,11 @@
     font-family: 'Open Sans', sans-serif;
 
 }
+
+:root{
+    --dark-gray: #242424;
+    --mediun-gray: #333333;
+    --light-gray: #464646;
+    --pink:#c61067;
+    
+}
